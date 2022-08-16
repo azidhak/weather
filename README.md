@@ -1,6 +1,6 @@
 # weather
 
-Weather is an application that show you current and tomorrow's forecast information of Stockholm, Gothenburg, Mount view, London, New york, Berlin and Malmo.
+Weather is an application that show you current and tomorrow's forecast information of Stockholm, Gothenburg, Mount view, London, New york, Berlin and Malmo. It use https://open-meteo.com/en free API to get forecast data.
 
 ### Highlights
 - Kotlin.
